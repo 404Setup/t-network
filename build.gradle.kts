@@ -18,7 +18,7 @@ repositories {
 dependencies {
 }
 
-val targetJavaVersion = 8
+val targetJavaVersion = 17
 
 java {
     val javaVersion = JavaVersion.toVersion(targetJavaVersion)

@@ -3,7 +3,7 @@
 [![Maven Central Version](https://img.shields.io/maven-central/v/one.tranic/t-network)](https://central.sonatype.com/artifact/one.tranic/t-network)
 [![javadoc](https://javadoc.io/badge2/one.tranic/t-network/javadoc.svg)](https://javadoc.io/doc/one.tranic/t-network)
 
-No need to install TLIB Base, need Java 8.
+No need to install TLIB Base, need Java 17.
 
 ## Install
 Please use shadow to remap TNetwork to your own path to avoid conflicts with other libraries/plugins using TProxy.
